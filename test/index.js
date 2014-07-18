@@ -1,5 +1,7 @@
 var reserve = require("../index")
 
+console.log("IP: %s", reserve.IP)
+
 reserve(8000, function( a ){
   console.log("Reserved port %d", a)
 })
