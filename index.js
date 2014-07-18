@@ -6,6 +6,8 @@ var MAX_PORTS = 100
 
 module.exports = portreserver
 
+portreserver.IP = IP
+
 /**
  * @param startPort{Number} start scanning with this port
  * @param [portCount]{Number} how many ports to reserve

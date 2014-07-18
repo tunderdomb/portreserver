@@ -1,6 +1,6 @@
 {
   "name": "portreserver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A thin wrapper around portscanner to reserve multiple ports",
   "main": "index.js",
   "directories": {
@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/tunderdomb/portreserver",
   "dependencies": {
-    "async": "~0.9.0"
+    "async": "0.9.0",
+    "portscanner": "1.0.0"
   },
   "devDependencies": {}
 }
