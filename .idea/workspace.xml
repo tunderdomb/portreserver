@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="345acd28-53ee-41f7-8f77-a59dca9dc077" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/index.js" afterPath="$PROJECT_DIR$/test/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portreserver.iws" />
@@ -65,7 +64,7 @@
                 <state />
               </provider>
               <provider selected="true" editor-type-id="text-editor">
-                <state line="42" column="72" selection-start="743" selection-end="743" vertical-scroll-proportion="0.78559464" vertical-offset="203" max-vertical-offset="896">
+                <state line="42" column="21" selection-start="692" selection-end="692" vertical-scroll-proportion="0.78559464" vertical-offset="203" max-vertical-offset="896">
                   <folding />
                 </state>
               </provider>
@@ -268,7 +267,11 @@
       <created>1405674642411</created>
       <updated>1405674642411</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="note about the IP property">
+      <created>1405674766519</created>
+      <updated>1405674766519</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -313,7 +316,8 @@
     <MESSAGE value="test and stuff" />
     <MESSAGE value="install note, renamed var name" />
     <MESSAGE value="added portscanner dep and IP property" />
-    <option name="LAST_COMMIT_MESSAGE" value="added portscanner dep and IP property" />
+    <MESSAGE value="note about the IP property" />
+    <option name="LAST_COMMIT_MESSAGE" value="note about the IP property" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -403,7 +407,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="72" selection-start="743" selection-end="743" vertical-scroll-proportion="0.78559464" vertical-offset="203" max-vertical-offset="896">
+        <state line="42" column="21" selection-start="692" selection-end="692" vertical-scroll-proportion="0.78559464" vertical-offset="203" max-vertical-offset="896">
           <folding />
         </state>
       </provider>

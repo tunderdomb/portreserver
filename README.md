@@ -40,7 +40,7 @@ reserve.multiple([[3000, 3], [35729]], function( as, bs ){
 })
 ```
 
-For convenience, machine's local IP address is accessible as a property:
+For convenience, the machine's local IP address is accessible as a property:
 
 ```js
 console.log("IP: %s", reserve.IP)
